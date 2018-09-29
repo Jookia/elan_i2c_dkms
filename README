@@ -1,0 +1,9 @@
+This is an updated kernel module to fix touchpad detection on the Ryzen Ideapad 330.
+
+To download and install, run this in a terminal:
+
+git clone https://www.github.com/Jookia/elan_i2c_dkms
+cd elan_i2c_dkms
+sudo dkms install .
+
+Then reboot your machine.
