@@ -1,4 +1,5 @@
 This is an updated kernel module to fix touchpad detection on the Ryzen Ideapad 330.
+Builds on Mint 18 (kernel 4.4) and 19 (kernel 4.15).
 
 To download and install, run this in a terminal:
 
